@@ -1,5 +1,4 @@
-# this is nested if and elif statements example code
-
+print("Welcome to the BMI calculator")
 height = float(input("Enter your height in Meter"))
 weight = float(input("Enter your weight in kg"))
 # body_mass_index = round((80 / 1.75 ** 2), 2)
